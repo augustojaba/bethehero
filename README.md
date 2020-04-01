@@ -9,9 +9,9 @@ Be the hero was created during the Omnistack week, visit [rocketseat.com.br](htt
 
 Be the hero was written basically in the Javascript language using node.js, react and react native, apart of html and css to help the customization of the interface.
 
-- [Backend] Written in node.js, it exposes the Rest API of the project.
-- [Frontend] A ReactJS project that exposes the Web interface of the system. 
-- [Mobile] A React Native mobile app that exposes the final users module.
+- [Backend](https://github.com/augustojaba/bethehero/tree/master/backend) Written in node.js, it exposes the Rest API of the project.
+- [Frontend](https://github.com/augustojaba/bethehero/tree/master/frontend) A ReactJS project that exposes the Web interface of the system. 
+- [Mobile](https://github.com/augustojaba/bethehero/tree/master/mobile) A React Native mobile app that exposes the final users module.
 
 ## Contributing
 
