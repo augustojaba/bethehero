@@ -1,6 +1,6 @@
 # BeTheHero
 
-Be the hero is a project created to help non-governmental organizations to acquire financing or help during the day-to-day challenges faced by them. Using the Web interface an admin of an NGO could register its organization in the platform and register some incident raise funds. A mobile interface was created to the final users (the funders) to elect an incident that it intends to help.
+Be the hero is a project created to help non-governmental organizations to acquire financing or help during the day-to-day challenges. Using the web interface an admin of an NGO could register its organization in the platform and register some incident to raise funds. A mobile interface was created to the final users (the funders) to elect an incident that it intends to help.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Be the hero was created during the Omnistack week, visit [rocketseat.com.br](https://rocketseat.com.br/) to learn more.
